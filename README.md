@@ -21,22 +21,22 @@ I have developed a growing appreciation for MLOps alongside my new interest in L
 
 ⚡ Skills:
 
-Strong programming skills.
-Excellent communication skills.
-I am dedicated to ongoing learning and have a proven ability to adapt my skills to achieve success in any task at hand.
+* Strong programming skills.
+* Excellent communication skills.
+* I am dedicated to ongoing learning and have a proven ability to adapt my skills to achieve success in any task at hand.
 
 ⚡ Tech Stack:
 
-Languages: Python, C++
-DL frameworks: PyTorch, Hugging Face, yolov8, darknet
-DS libraries: matplotlib, pandas, numpy
-LLM: llama-index, langchain
-MLOps: ZenML, cnvrg.io, Roboflow
-Data labeling: Label Studio, CVAT
-Data exploration: FiftyOne
-DL experiment tracking: MLflow, Weights & Biases
-DL deployment: MLflow, BentoML, Hugging Face Spaces, Streamlit
-Cloud: AWS
-Containerization: Docker
-Version control: Git, Gitlab, GitHub, Bitbucket
+* Languages: Python, C++
+* DL frameworks: PyTorch, Hugging Face, yolov8, darknet
+* DS libraries: matplotlib, pandas, numpy
+* LLM: llama-index, langchain
+* MLOps: ZenML, cnvrg.io, Roboflow
+* Data labeling: Label Studio, CVAT
+* Data exploration: FiftyOne
+* DL experiment tracking: MLflow, Weights & Biases
+* DL deployment: MLflow, BentoML, Hugging Face Spaces, Streamlit
+* Cloud: AWS
+* Containerization: Docker
+* Version control: Git, Gitlab, GitHub, Bitbucket
 CI/CD: Gitlab CI/CD, Jenkins
