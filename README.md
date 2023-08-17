@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an AI engineer with a specialization in Computer Vision, focusing on Object Detection, Segmentation, and Tracking projects. I am a strong proponent of the Data-centric AI approach, having successfully led multiple end-to-end Deep Learning projects while utilizing optimal MLOps practices.
+I am an AI engineer with a specialization in Computer Vision, focusing on Object Detection, Segmentation, and Tracking projects. 
+
+I am a strong proponent of the Data-centric AI approach, having successfully led multiple end-to-end Deep Learning projects while utilizing optimal MLOps practices.
 
 I have developed a growing appreciation for MLOps alongside my new interest in Large Langage Models.
 
